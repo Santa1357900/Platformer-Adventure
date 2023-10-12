@@ -13,3 +13,9 @@
 - level ของด่าน
 - ระบบไอเทมที่ช่วยเพิ่มความสามารถ
 - และอื่นๆ
+
+# เพลงประกอบในเกม
+-Persona 5 OST 39 - Mementos
+-Persona 5 OST 24 - Life Will Change Instrumental Version
+-Yakuza OST - Baka Mitai (ばかみたい) Kiryu full version
+-Persona 5 Royal OST - Our Light
